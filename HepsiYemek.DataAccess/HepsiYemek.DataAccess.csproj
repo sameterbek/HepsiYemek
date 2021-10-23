@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HepsiYemek.Core\HepsiYemek.Core.csproj" />
+    <ProjectReference Include="..\HepsiYemek.Entities\HepsiYemek.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
