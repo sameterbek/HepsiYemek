@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Product\" />
+    <PackageReference Include="MongoDB.Bson" Version="2.13.2" />
   </ItemGroup>
 
 </Project>
